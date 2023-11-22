@@ -1,2 +1,5 @@
 # bloodbank
-bloodbank management project
+
+#admin login
+username: admin
+password: admin
